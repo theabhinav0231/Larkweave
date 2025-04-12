@@ -3,7 +3,9 @@
 # 🌐 Larkweave — Cross-Generation Knowledge Transfer Platform
 
 ✨ Demo
-🖥️ Live Demo: Larkweave.live
+
+**🖥️ Deployed Application Link: https://larkweave.onrender.com**
+
 📽️ Video Walkthrough: Watch here
 
 
