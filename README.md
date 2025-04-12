@@ -65,6 +65,8 @@ Community-Driven: Learners and mentors engage, grow, and celebrate outcomes toge
 - Huggingface Token
 - Streamlit account
 
+## Made with passion during a 48-hour hackathon
+
 ### 🔌 1. Clone the repository
 
 ```bash
@@ -93,7 +95,6 @@ streamlit run forum.py
 ### 5. Deployments
 Flask Backend ➝ Render
 
-Made with passion during a 48-hour hackathon
 Streamlit Apps ➝ Streamlit Community Cloud
 
 Frontend ➝ Serve via Render or Vercel
